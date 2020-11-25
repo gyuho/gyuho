@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+We are actively hiring. Please email me via leegyuho@amazon.com if you are interested in:
+- Distributed systems at Amazon/AWS scale
+- etcd
+- Kubernetes
+- Go
+- Rust
+
 #### Distributed Systems
 - [etcd] - distributed key-value store
 - [dbtester] - benchmark etcd vs. zookeeper vs. consul
