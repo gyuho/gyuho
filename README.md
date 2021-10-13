@@ -2,45 +2,36 @@
 
 ### Hi there 👋
 
-<!--
-**gyuho/gyuho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 TBD
 
-Here are some ideas to get you started:
+I am interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-We are actively hiring. Please email me via leegyuho@amazon.com if you are interested in:
-- Distributed systems at Amazon/AWS scale
+- Distributed systems
+- Consensus
+- Blockchain
+- Cryptography
 - etcd
 - Kubernetes
 - Go
 - Rust
 
-#### Distributed Systems
-- [etcd] - distributed key-value store
-- [dbtester] - benchmark etcd vs. zookeeper vs. consul
-- [etcd Labs] - interactive etcd playground (see [etcdlabs] for code)
+## Projects: Distributed Systems
 
-#### Other work
-- [aws/aws-k8s-tester] - AWS/EKS testing framework
-- [learn] - learning logs (outdated)
-- [dplearn] - e2e cat vs. dog classifier backed by etcd 
-- [goraph] - graph algorithms in Go
+- [`etcd`](https://github.com/etcd-io/etcd/graphs/contributors) - distributed key-value store
+- [`dbtester`](https://github.com/etcd-io/dbtester) - benchmark etcd vs. zookeeper vs. consul
+- [etcd Labs](http://play.etcd.io) - interactive etcd playground (see [`etcdlabs`](https://github.com/etcd-io/etcdlabs) for code)
 
-[etcd]: https://github.com/etcd-io/etcd/graphs/contributors
-[dbtester]: https://github.com/etcd-io/dbtester
-[etcd Labs]: http://play.etcd.io
-[etcdlabs]: https://github.com/etcd-io/etcdlabs
-[aws/aws-k8s-tester]: https://github.com/aws/aws-k8s-tester
-[learn]: https://github.com/gyuho/learn
-[dplearn]: https://github.com/gyuho/dplearn
-[goraph]: https://github.com/gyuho/goraph
+## Projects: Other
+
+- [`learn`](https://github.com/gyuho/learn) - learning logs
+- [`dplearn`](https://github.com/gyuho/dplearn) - e2e cat vs. dog classifier backed by etcd 
+- [`goraph`](https://github.com/gyuho/goraph) - graph algorithms in Go
+- [`aws/aws-k8s-tester`](https://github.com/aws/aws-k8s-tester) - AWS/EKS testing framework
+
+## More
+
+- <a href="https://github.com/gyuho" target="_blank">`github.com/gyuho`</a>
+- <a href="https://twitter.com/gyuhox" target="_blank">`twitter.com/gyuhox`</a>
+- <a href="https://www.linkedin.com/in/gyuho/" target="_blank">`linkedin.com/in/gyuho`</a>
+
 
