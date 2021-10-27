@@ -2,12 +2,15 @@
 
 ### Hi there 👋
 
-🔭 TBD
+I am currently a Staff Software Engineer at [Ava Labs](https://www.avalabs.org/).
+
+Previously worked at [AWS (etcd, Kubernetes, EKS)](https://aws.amazon.com/blogs/opensource/etcd-gets-ready-to-graduate/), [CoreOS](https://web.archive.org/web/20210203225926/https://coreos.com/blog/performance-of-etcd.html), [System1 (formerly OpenMail)](http://system1.com/about).
 
 I am interested in:
 
 - Distributed systems
-- Consensus
+- Database
+- Consensus (BFT/CFT)
 - Blockchain
 - Cryptography
 - etcd
