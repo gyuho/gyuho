@@ -1,8 +1,12 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=gyuho&show_icons=true">
+# About me 👋
 
-### Hi there 👋
+Interested in distributed systems (consensus, etcd, Kubernetes) and AI.
 
-I am interested in distributed systems (consensus, etcd, Kubernetes) and AI.
+![gyuho GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuho&show_icons=true)
+
+![gyuho GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuho&show_icons=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage)
+
+![gyuho GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyuho)
 
 ## Projects: Distributed Systems
 
@@ -16,7 +20,7 @@ I am interested in distributed systems (consensus, etcd, Kubernetes) and AI.
 ## Projects: Other
 
 - [`learn`](https://github.com/gyuho/learn) - learning logs
-- [`dplearn`](https://github.com/gyuho/dplearn) - e2e cat vs. dog classifier backed by etcd 
+- [`dplearn`](https://github.com/gyuho/dplearn) - e2e cat vs. dog classifier backed by etcd
 - [`goraph`](https://github.com/gyuho/goraph) - graph algorithms in Go
 - [`aws/aws-k8s-tester`](https://github.com/aws/aws-k8s-tester) - AWS/EKS testing framework
 - [`task-scheduler-examples`](https://github.com/gyuho/task-scheduler-examples) - toy project in Rust
@@ -26,3 +30,4 @@ I am interested in distributed systems (consensus, etcd, Kubernetes) and AI.
 - <a href="https://github.com/gyuho" target="_blank">`github.com/gyuho`</a>
 - <a href="https://twitter.com/gyuhox" target="_blank">`twitter.com/gyuhox`</a>
 - <a href="https://www.linkedin.com/in/gyuho/" target="_blank">`linkedin.com/in/gyuho`</a>
+- <a href="https://youtube.com/@GyuHoLeeLearn" target="_blank">`youtube.com/@GyuHoLeeLearn`</a>
