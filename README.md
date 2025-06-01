@@ -1,5 +1,7 @@
 # About me 👋
 
+Currently focusing on AI infrastructure at NVIDIA.
+
 Interested in distributed systems (consensus, etcd, Kubernetes) and AI.
 
 [![gyuho GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuho&show_icons=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/gyuho)
@@ -10,7 +12,7 @@ Interested in distributed systems (consensus, etcd, Kubernetes) and AI.
 
 ## Projects: Distributed Systems
 
-- [GPUd](https://github.com/leptonai/gpud) - GPU monitoring agent by Lepton AI
+- [GPUd](https://github.com/leptonai/gpud) - GPU monitoring agent by Lepton AI (now NVIDIA)
 - [`etcd`](https://github.com/etcd-io/etcd/graphs/contributors) - distributed key-value store
 - [`dbtester`](https://github.com/etcd-io/dbtester) - benchmark etcd vs. zookeeper vs. consul
 - [etcd Labs](http://play.etcd.io) - interactive etcd playground (see [`etcdlabs`](https://github.com/etcd-io/etcdlabs) for code)
